@@ -1,0 +1,26 @@
+shift a ile nesne ekleme yerini açabilirsin
+s ile madde büyültebilirsin
+r ile madde döndürebilirsin
+orta tuş ile gezebilirsin
+shift orta tuş ile merkezden uzaklaşabilirsin
+h ile nesne gizleyebilirsin
+alt h ile gizlediğin nesneyi açığa çıkartabilirsin
+t ile toolbox gizliliği açıp kapatabilirsin
+mouse scroll ile yakınlaştırıp uzaklaştırabilirsin
+g ile nesne taşıma yapabilirsin eğer x ekseninde taşıyacaksan x tuşuna bas g den sonra. y ise y, z ise z. onaylamak için sol tık. onaylamamak için sağ tık
+
+---------modifier-----------
+array = dizi mantığı. o kadar sayıda kordinat oluşturup kopyasını koyuyor
+bool tool fark kısayolu = ilk sectiğin obje sonra shift diğer obje + ctrl x
+
+----------------------------
+evee = gerçek zamanlı render motoru, daha hızlı
+cycle ise saniyelik görüntü alır daha iyi hesaplamalar yapar daha iyi görüntü
+
+number of facts nesne adeti
+tris to quads = alt+j
+poke faces
+
+
+
+
