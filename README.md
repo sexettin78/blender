@@ -1,0 +1,1 @@
+# NOTLAR İÇİN menemen.txt DOSYASINA BAKINIZ
